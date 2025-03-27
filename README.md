@@ -3,6 +3,16 @@ Exemplos de novos recursos do .NET 9 (incluindo C# 13) apresentados no dia 28/11
 
 ---
 
+Título da apresentação: **.NET 9: bibliotecas, Runtime, SDK...**
+
+Data: **28/11/2024 (quinta-feira)**
+
+Tecnologias e tópicos abordados: **.NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure...**
+
+Evento: **.NET Conf 2024 SP**
+
+Número de participantes: **9 pessoas**
+
 Link da transmissão: [**YouTube**](https://www.youtube.com/watch?v=nPc1PR4z5dw)
 
 Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/23704/?wt.mc_id=1reg_23704_webpage_reactor)
